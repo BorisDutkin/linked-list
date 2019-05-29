@@ -4,7 +4,7 @@ Linked lists implementation:
 
 You can create a linked list from an existing array:
 
-```
+```javascript
 let list = new LinkedList([
 { id: 1, name: 'Superman'}, { id: 2, name: 'Batman' }, { id: 3, name: 'Thor' }
 ]);
