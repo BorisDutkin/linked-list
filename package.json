@@ -1,0 +1,12 @@
+{
+  "name": "linked-lists",
+  "version": "1.0.0",
+  "description": "Linked lists implementation",
+  "keywords": ["linked list", "array", "enumerable"],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Boris Dutkin",
+  "license": "ISC"
+}
