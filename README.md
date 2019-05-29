@@ -12,7 +12,9 @@ let list = new LinkedList([
 
 or just create a new one:
 
-`let list = new LinkedList();`
+```javascript
+let list = new LinkedList();
+```
 
 ### Methods List:
 
