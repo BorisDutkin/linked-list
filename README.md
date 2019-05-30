@@ -1,4 +1,4 @@
-# LinkedList :smiley:
+# Linked List :link: :smiley:
 
 Linked lists implementation:
 
